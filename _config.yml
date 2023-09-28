@@ -1,0 +1,119 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole site, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: CS 131 Fall 2023
+tagline: Course website for Fall 2023 CS 131 | Programming Languages at UCLA
+description: Course website for Fall 2023 CS 131 | Programming Languages at UCLA
+author: Matthew Wang, Ruining Ding, Brian Wang
+baseurl: '/spring-23' # the subpath of your site, e.g. /blog
+url: 'https://ucla-cs-131.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor", "README.md", "_modules/to_change", 
+"lectures/old"]
+
+# Theme settings
+theme: "just-the-docs"
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+aux_links:
+  Website on GitHub:
+    - 'https://github.com/UCLA-CS-131/fall-23'
+
+nav_external_links:
+
+  - title: Campuswire
+    url: https://campuswire.com/c/G8DA58F59
+  - title: Gradescope
+    url: https://www.gradescope.com/courses/626344
+  - title: Lecture Slides
+    url: https://drive.google.com/drive/folders/1rdBXZnlcCXOVou0dbjeNIfntSly7iy9R?usp=share_link
+  - title: Discussion Resources
+    url: https://drive.google.com/drive/folders/1TBOqhuq2-JFEcW0KNkbnC6UXtpGUsATe
+  - title: Barista
+    url: https://barista.fly.dev
+  - title: Past Website
+    url: https://ucla-cs-131.github.io/spring-23/
+
+# Collections for website data
+collections:
+  staffers:
+  modules:
+  schedules:
+  announcements:
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: staffers
+    values:
+      layout: staffer
+      subpath: '/assets/images/'
+  - scope:
+      path: ''
+      type: modules
+    values:
+      layout: module
+  - scope:
+      path: ''
+      type: schedules
+    values:
+      layout: schedule
+  - scope:
+      path: ''
+      type: announcements
+    values:
+      layout: announcement
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/UCLA-CS-131/fall-23" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+gh_edit_view_mode: "tree"
+
+# callouts
+callouts_level: quiet # or loud
+callouts:
+  important:
+    title: Important
+    color: yellow
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: blue
+  warning:
+    title: Warning
+    color: red
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.7"
