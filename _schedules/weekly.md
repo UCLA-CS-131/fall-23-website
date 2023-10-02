@@ -51,13 +51,13 @@ schedule:
         location: Boelter 3256-S
   - name: Thursday
     events:
+      - name: OH (Bonnie)
+        start: 10:30 AM
+        end: 12:30 PM
+        location: Boelter 3256-S
       - name: OH (Andrey)
         start: 1:00 PM
         end: 2:00 PM
-        location: Boelter 3256-S
-      - name: OH (Bonnie)
-        start: 1:45 PM
-        end: 3:45 PM
         location: Boelter 3256-S
   - name: Friday
     events:
