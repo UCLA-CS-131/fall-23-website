@@ -48,7 +48,7 @@ schedule:
       - name: OH (Brian)
         start: 4:00 PM
         end: 6:00 PM
-        location: Boelter 3256-S
+        location: Boelter 3278
   - name: Thursday
     events:
       - name: OH (Bonnie)
