@@ -17,6 +17,7 @@ Some things that you can do:
 - read TA-written [lecture notes]({{site.baseurl}}/lectures) that add on existing slide content
 - view [project specs and canonical solutions]({{site.baseurl}}/projects)
 - see [homework due dates and solutions]({{site.baseurl}}/homeworks)
+- see [dicussion problems and solutions]({{site.baseurl}}/discussions)
 - ~~stalk~~ learn more about our wonderful [staff]({{site.baseurl}}/staff)
 
 
