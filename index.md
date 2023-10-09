@@ -24,4 +24,4 @@ Some things that you can do:
 We're working to make this site a better experience for you as a student. If you have any suggestions, feel free to:
 
 - let us know (in class, via Campuswire, or otherwise)
-- [submit an issue on GitHub](https://github.com/UCLA-CS-131/fall-23/issues), or make a PR!
+- [submit an issue on GitHub](https://github.com/UCLA-CS-131/fall-23-website/issues), or make a PR!
