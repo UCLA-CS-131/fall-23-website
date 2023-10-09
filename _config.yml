@@ -30,7 +30,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Website on GitHub:
-    - 'https://github.com/UCLA-CS-131/fall-23'
+    - 'https://github.com/UCLA-CS-131/fall-23-website'
 
 nav_external_links:
 
@@ -93,7 +93,7 @@ back_to_top_text: "Back to top"
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/UCLA-CS-131/fall-23" # the github URL for your repo
+gh_edit_repository: "https://github.com/UCLA-CS-131/fall-23-website" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_view_mode: "tree"
 
