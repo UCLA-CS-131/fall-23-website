@@ -159,7 +159,7 @@ Week 2:
 
 - 10/11 Homework 1 due at 11:59PM
 - 10/11 Homework 2 posted
-- 10/22 Project 1 posted
+- 10/11 Project 1 posted
 <!-- (advanced Haskell topics) -->
 
 Week 3:
