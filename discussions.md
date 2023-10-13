@@ -10,3 +10,4 @@ These are problems we go over during our discussion sections.  They are not grad
   - [Discussion Week 1 Solutions](https://docs.google.com/document/d/1FdZR1F8cnWHBrc9iWsug_M4IPMb7YGloCnRmlsz6Y00/edit?usp=sharing)
 
 - [Discussion Week 2 Problems](https://docs.google.com/document/d/1gORYPneNMzg-GwkDoTPFGKbsQxn8GeaR1FyCpjjlJfI/edit?usp=sharing)
+  - [Discussion Week 2 Solutions](https://docs.google.com/document/d/1M9MVuTcIgj7ckWn73d8meul483op2QBdeEeCBS25i6U/edit?usp=sharing)
