@@ -19,7 +19,7 @@ Project 1 has been released! It is due at **11:59 PM PT on October 22nd**. Some 
 
 *Note*: we're trying a new approach of highly interactive project grading, where you:
 
-- get a subset of your project graded **immediately on submission**
+- get your project graded **immediately on submission**
 - submit **as many times as you want**
 - get a subset of the test cases that we grade your project on
 - (completely optional) are able to run a copy of the grading server locally
