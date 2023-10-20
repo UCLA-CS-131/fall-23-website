@@ -11,3 +11,5 @@ These are problems we go over during our discussion sections.  They are not grad
 
 - [Discussion Week 2 Problems](https://docs.google.com/document/d/1gORYPneNMzg-GwkDoTPFGKbsQxn8GeaR1FyCpjjlJfI/edit?usp=sharing)
   - [Discussion Week 2 Solutions](https://docs.google.com/document/d/1M9MVuTcIgj7ckWn73d8meul483op2QBdeEeCBS25i6U/edit?usp=sharing)
+
+- [Discussion Week 3 Problems](https://docs.google.com/document/d/1xAR0cEH06Jszj95qlAefa_e_MPsx0zc-6CG7dTRr1-Q/edit?usp=sharing)
