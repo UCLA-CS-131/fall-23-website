@@ -11,8 +11,8 @@ description: Project specs - build your own interpreter!
 Project 2 has been released! It is due at **11:59 PM PT on November 5th**. Some links that you'll find helpful:
 
 - [Project 2 Spec](https://docs.google.com/document/d/1Rvl6g3NWLaD9VpVLzox82-izEU0TenP5LILQ2nJ3r7k/edit?usp=sharing)
-- [Project Autograder](https://github.com/UCLA-CS-131/fall-23-autograder) - **includes test cases!!**
-- [Project Starter Template](https://github.com/UCLA-CS-131/fall-23-project-starter) - **solution to Project 1 will be posted on Wednesday night, Oct 25th**
+- [Project Autograder](https://github.com/UCLA-CS-131/fall-23-autograder) - **includes 20% test cases for Project 2 and all test cases for Project 1**
+- [Project Starter Template](https://github.com/UCLA-CS-131/fall-23-project-starter) - **with official solution to Project 1!**
 - [Gradescope Submission](https://www.gradescope.com/courses/626344/assignments/3573936/)
 - [Barista](https://barista-f23.fly.dev/) - **new version is available**
 
