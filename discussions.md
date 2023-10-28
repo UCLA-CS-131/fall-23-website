@@ -16,3 +16,4 @@ These are problems we go over during our discussion sections.  They are not grad
   - [Discussion Week 3 Solutions](https://docs.google.com/document/d/128PcEXc5VOL-W7c2SQrsN6DObFE0cwrOrXDwDO1Vsa8/edit?usp=sharing)
 
 - [Discussion Week 4 Problems](https://docs.google.com/document/d/1FrOhc3DP0WQTGbyD_cmGAhouZcK090pMeLTNVdGYh1w/edit?usp=sharing)
+  - [Discussion Week 4 Solutions](https://docs.google.com/document/d/1O68IuA8-_tDxTkcbqg6rcdMpk2ai0fhZh2vLrwOV8xk/edit?usp=sharing)
