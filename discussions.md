@@ -17,3 +17,5 @@ These are problems we go over during our discussion sections.  They are not grad
 
 - [Discussion Week 4 Problems](https://docs.google.com/document/d/1FrOhc3DP0WQTGbyD_cmGAhouZcK090pMeLTNVdGYh1w/edit?usp=sharing)
   - [Discussion Week 4 Solutions](https://docs.google.com/document/d/1O68IuA8-_tDxTkcbqg6rcdMpk2ai0fhZh2vLrwOV8xk/edit?usp=sharing)
+
+- [Discussion Week 5 Problems](https://docs.google.com/document/d/11JZ4xUq84x26UurZU5vBfOkWEXnIv5hOIjW5rKiaAp8/edit?usp=sharing)
