@@ -20,3 +20,6 @@ These are problems we go over during our discussion sections.  They are not grad
 
 - [Discussion Week 5 Problems](https://docs.google.com/document/d/11JZ4xUq84x26UurZU5vBfOkWEXnIv5hOIjW5rKiaAp8/edit?usp=sharing)
   - [Discussion Week 5 Solutions](https://docs.google.com/document/d/1pUl0OakprXgaUAkpbWILt3qpfJFuML0QyXF7GXuhYsI/edit?usp=sharing)
+
+- [Discussion Week 6 Problems](https://docs.google.com/document/d/1dK1Yec0nsqM-aoaJ7bop_wrytjzkmzBJZMAi-zn2bSQ/edit?usp=sharing)
+  - [Discussion Week 6 Solutions](https://docs.google.com/document/d/11un4UfcKscOHj1K9P5lG9iTgx0EJEfrCuEM9bGSXB8c/edit?usp=sharing)
