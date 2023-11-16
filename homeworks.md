@@ -19,3 +19,4 @@ Homeworks will be released and turned in via Gradescope.  You will find links to
 - [Homework 5](https://www.gradescope.com/courses/626344/assignments/3622513), due **Wed Nov 8 at 11:59 PM**
   - [Homework 5 Solutions](https://docs.google.com/document/d/1LU-RLvYf8dZUM6I570WIht7GC4kwSFdeOFxr28L_Auk/edit?usp=sharing)
 - [Homework 6](https://www.gradescope.com/courses/626344/assignments/3658060), due **Wed Nov 15 at 11:59 PM**
+- [Homework 7](https://www.gradescope.com/courses/626344/assignments/3691696), due **Wed Nov 22 at 11:59 PM**
