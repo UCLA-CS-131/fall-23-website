@@ -23,3 +23,5 @@ These are problems we go over during our discussion sections.  They are not grad
 
 - [Discussion Week 6 Problems](https://docs.google.com/document/d/1dK1Yec0nsqM-aoaJ7bop_wrytjzkmzBJZMAi-zn2bSQ/edit?usp=sharing)
   - [Discussion Week 6 Solutions](https://docs.google.com/document/d/11un4UfcKscOHj1K9P5lG9iTgx0EJEfrCuEM9bGSXB8c/edit?usp=sharing)
+
+- [Discussion Week 7 Problems](https://docs.google.com/document/d/1tVYj0JhvPGfJFZlWiiT27M6jMIXL2xydP2HgR-VEgH0/edit?usp=sharing)
