@@ -25,3 +25,4 @@ These are problems we go over during our discussion sections.  They are not grad
   - [Discussion Week 6 Solutions](https://docs.google.com/document/d/11un4UfcKscOHj1K9P5lG9iTgx0EJEfrCuEM9bGSXB8c/edit?usp=sharing)
 
 - [Discussion Week 7 Problems](https://docs.google.com/document/d/1tVYj0JhvPGfJFZlWiiT27M6jMIXL2xydP2HgR-VEgH0/edit?usp=sharing)
+  - [Discussion Week 7 Solutions](https://docs.google.com/document/d/1f8ikFQr2i8jwkQI__rSSqmijdDjWSbzLfkku0bt9aMQ/edit?usp=sharing)
