@@ -12,7 +12,7 @@ Project 4 has been released! It is due at **11:59 PM PT on December 3rd**. Some 
 - [Project Autograder](https://github.com/UCLA-CS-131/fall-23-autograder) - **new version will be available soon**
 - [Project Starter Template](https://github.com/UCLA-CS-131/fall-23-project-starter) - **This will be updated with the interpreter used in Project 3 on 11/20/23**
 - [Gradescope Submission](https://www.gradescope.com/courses/626344/assignments/3622703) - **This will be released on 11/20/23**
-- [Barista](https://barista-f23.fly.dev/) - **new version will be available soon**
+- [Barista](https://barista-f23.fly.dev/) - **new version is available**
 
 ## Project 3
 
