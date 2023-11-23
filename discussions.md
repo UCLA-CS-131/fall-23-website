@@ -26,3 +26,6 @@ These are problems we go over during our discussion sections.  They are not grad
 
 - [Discussion Week 7 Problems](https://docs.google.com/document/d/1tVYj0JhvPGfJFZlWiiT27M6jMIXL2xydP2HgR-VEgH0/edit?usp=sharing)
   - [Discussion Week 7 Solutions](https://docs.google.com/document/d/1f8ikFQr2i8jwkQI__rSSqmijdDjWSbzLfkku0bt9aMQ/edit?usp=sharing)
+
+- [Discussion Week 8 Problems](https://docs.google.com/document/d/17vjcJaP-0Ij8bXalikaIaKcQUVDoZxOzmTT3Lj8rYa0/edit?usp=sharing)
+  - [Discussion Week 8 Solutions](https://docs.google.com/document/d/1Tbi4-2v_SJPrZkTeiH25NUAyL4C4RJdIz2g-HW6suII/edit?usp=sharing)
