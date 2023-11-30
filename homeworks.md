@@ -23,3 +23,4 @@ Homeworks will be released and turned in via Gradescope.  You will find links to
 - [Homework 7](https://www.gradescope.com/courses/626344/assignments/3691696), due **Wed Nov 22 at 11:59 PM**
   - [Homework 7 Solutions](https://docs.google.com/document/d/1LuwnmP2apKsXR19xGhCRStfbgzKqgvg12ndYc3XMA7k/edit?usp=sharing)
 - [Homework 8](https://www.gradescope.com/courses/626344/assignments/3718326), due **Wed Nov 29 at 11:59 PM**
+  - [PDF link](https://docs.google.com/document/d/1Nlq4soe7DFPpNvAeK-EUcCsn5Bodu0wpQ4Cdcg4VSG0/edit?usp=drive_link)
