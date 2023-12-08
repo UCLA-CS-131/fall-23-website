@@ -132,7 +132,7 @@ See also: [course calendar]({{site.baseurl}}/calendar/).
     - Prolog resolution, unification, list processing
 
 **Finals Week**
-- Final exam on Friday, December 15th (time TBD)
+- Final exam on Friday, December 15th, 3-6PM PST
 </div>
 </details>
 
