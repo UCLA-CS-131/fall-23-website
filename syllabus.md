@@ -132,7 +132,7 @@ See also: [course calendar]({{site.baseurl}}/calendar/).
     - Prolog resolution, unification, list processing
 
 **Finals Week**
-- Final exam on Friday, December 15th, 3-6PM PST
+- Final exam on Friday, December 15th, 3-6PM PST at Ackerman Grand Ballroom
 </div>
 </details>
 
@@ -217,6 +217,9 @@ Week 9:
 Week 10:
 
 - 12/06 Homework 9 due at 11:59PM
+
+Finals Week:
+- 12/15 Final Exam (Friday 3-6pm, Ackerman Grand Ballroom)
 
 <!-- Finals week: -->
 </div>
