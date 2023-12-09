@@ -31,6 +31,7 @@ These are problems we go over during our discussion sections.  They are not grad
   - [Discussion Week 8 Solutions](https://docs.google.com/document/d/1Tbi4-2v_SJPrZkTeiH25NUAyL4C4RJdIz2g-HW6suII/edit?usp=sharing)
 
 - [Discussion Week 9 Problems](https://docs.google.com/document/d/1imGcge-T5tp6uZgTBUpZXQoGcPTyVWFWOtm1Ks4oRLw/edit?usp=sharing)
-  - [Discussion Week 9 Problems](https://docs.google.com/document/d/1zRPOi6pXJdutsjyXT5fx327LR7WzHIjPOqqs2mkloMM/edit?usp=sharing)
+  - [Discussion Week 9 Solutions](https://docs.google.com/document/d/1zRPOi6pXJdutsjyXT5fx327LR7WzHIjPOqqs2mkloMM/edit?usp=sharing)
 
 - [Discussion Week 10 Problems](https://docs.google.com/document/d/1WR2z_otkE9PegyffjFDt2CXzJeSKQdiPYfogcOMrnio/edit?usp=sharing)
+  - [Discussion Week 10 Solutions](https://docs.google.com/document/d/1xgPrKYC7n0gcG-n98TwDIq8l4uS72EdN27Vy2n9HIsM/edit?usp=sharing)
