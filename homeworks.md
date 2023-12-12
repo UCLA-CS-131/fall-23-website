@@ -25,3 +25,4 @@ Homeworks will be released and turned in via Gradescope.  You will find links to
 - [Homework 8](https://www.gradescope.com/courses/626344/assignments/3718326), due **Wed Nov 29 at 11:59 PM**
   - [Homework 8 Solutions](https://docs.google.com/document/d/1r5fw3gsnJr5RaiM2mQp3YuuZYZyvIFvx6L9aiag0L6o/edit?usp=sharing)
 - [Homework 9](https://www.gradescope.com/courses/626344/assignments/3743943), due **Sun Dec 10 at 11:59 PM**
+  - [Homework 9 Solutions](https://docs.google.com/document/d/1Ff7wRyKG1fVXriRXrtCDGP4S7ZC45EG16tDhciPkqgI/edit?usp=sharing)
